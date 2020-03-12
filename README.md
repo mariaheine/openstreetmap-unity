@@ -8,6 +8,9 @@ To test the project with any custom map exported from [OpenStreetMap](https://ww
 ⚠️ Please restrain the exported map size to about 3x3 kilometers, the
 program doesn't implement map chunking and you could freeze Unity3D`.
 
+Somewhere Berlin:
+![asd](https://raw.githubusercontent.com/mariaheine/TestStreetGraph/master/Public/crossfull.png)
+
 ### 🌌 Approach
 
 -   Considered required elements of the API
